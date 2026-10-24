@@ -1,6 +1,6 @@
 ![Fragball](wordmark.png)
 
-![Fragball gameplay: a triple frag](gameplay.gif)
+![Fragball gameplay: a frag streak in the forest](gameplay.gif)
 
 A top-down 4v4 arena shooter in the spirit of Babo Violent: capture the flag, team deathmatch, free for all
 and king of the hill, against bots or friends.
