@@ -1,5 +1,7 @@
 ![Fragball](wordmark.png)
 
+**Website and download: [fragball.predze.dk](https://fragball.predze.dk)**
+
 ![Fragball gameplay: a frag streak in the forest](gameplay.gif)
 
 A top-down 4v4 arena shooter in the spirit of Babo Violent: capture the flag, team deathmatch, free for all
