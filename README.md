@@ -15,8 +15,9 @@ Get the latest version from **[Releases](https://github.com/LarsSoeMikkelsen/fra
 ## Playing together
 Everyone needs the same version.
 
-- **Same network:** one player picks Multiplayer → Host; the others find the game in their Multiplayer list.
-- **Over the internet:** the host forwards **UDP port 27960** on their router to their PC. The host's lobby shows
-  their public address with a Copy button; the others paste it into Join.
+- **Online:** one player picks **Online → Host online**. The game shows up in everyone's Online list, and you can
+  share its 4-letter code. Nobody needs to open ports on their router.
+- **Same network (LAN):** one player picks **LAN → Host a match**; the others find it in their LAN list. This works
+  without the internet too.
 
 This repository only holds the downloads.
